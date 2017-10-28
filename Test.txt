@@ -1,7 +1,7 @@
 sdfsddffsfsdf
-<<<<<<< Updated upstream
+
 fdsfsddfsdfsddfsd
-=======
+
 
 sfdsfsdfsdfsddfsdfsd
->>>>>>> Stashed changes
+
